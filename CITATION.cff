@@ -5,7 +5,8 @@ cff-version: 1.2.0
 message: "If you use Geant4 toolkit, please cite it using these metadata."
 title: "Geant4"
 authors:
-  - []
+  - family-names: Geant4
+  - given-names: Collaboration
 preferred-citation:
   title: "Recent developments in Geant4"
   doi: "https://doi.org/10.1016/j.nima.2016.06.125"
